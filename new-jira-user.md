@@ -1,5 +1,9 @@
 ---
 title: New Jira Request Process
+categories:
+  - Jira
+  - onboarding
+  - process
 ---
 
 <!-- @format -->
