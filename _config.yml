@@ -1,1 +1,7 @@
+# @format
+
 theme: jekyll-theme-leap-day
+title: Public DDN Documentation
+description: Internal service docs - not DDN products
+show_downloads: false
+google_analytics: G-8SM5E5JSS4
